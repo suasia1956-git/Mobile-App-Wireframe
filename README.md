@@ -39,7 +39,7 @@ The wireframe includes the main mobile application layout with:
 
 ## Wireframe Preview
 
-![Mobile App Wireframe](https://raw.githubusercontent.com/suasia1956-git/Mobile-App-Wireframe/main/MOBILE%20APP.png)
+![Mobile App Wireframe](MOBILE%20%20APP.png)
 
 ## Figma Design
 
